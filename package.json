@@ -1,0 +1,29 @@
+{
+  "name": "mychatbotrep",
+  "version": "1.0.0",
+  "description": "My First chatbot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsing144/mychatbotrep.git"
+  },
+  "keywords": [
+    "bot",
+    "slack",
+    "skype",
+    "gurpreet"
+  ],
+  "author": "Gurpreet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gsing144/mychatbotrep/issues"
+  },
+  "homepage": "https://github.com/gsing144/mychatbotrep#readme",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "restify": "^4.3.0"
+  }
+}
